@@ -1,4 +1,4 @@
 # Brian Lam
-Hi I’m Brian, a self-taught web developer with a passion and desire to work on front-end applications used by millions across the world.
+From finance to code! I'm a UCI graduate with a background in business economics. Worked as an accountant at a top 50 accounting firm before pursuing my passion for software development, and I'm now a front end developer at a credit union. Outside of work, I'm a gamer 👾, Netflix binger 😵‍💫, and fitness enthusiast 💪.
 
 [Portfolio](https://brianlam.dev/)
